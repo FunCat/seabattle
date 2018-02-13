@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './TitleRow.css';
 import TitleCell from '../TitleCell/TitleCell';
-import TableCell from '../TableCell/TableCell';
 
 class TitleRow extends Component {
   render() {
